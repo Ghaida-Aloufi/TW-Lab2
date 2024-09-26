@@ -128,6 +128,11 @@ function App() {
   </button>
 </div>
 
+
+<div className='flex bg-black h-[10vh] w-[100%] justify-end '>
+  <p className=' text-white mr-4'>© 2020 Insert Name Here. All rights reserved.</p>
+
+</div>
     </>
   )
 }
